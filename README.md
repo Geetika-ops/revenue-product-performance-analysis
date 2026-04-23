@@ -1,5 +1,5 @@
 # revenue-product-performance-analysis
-)
+
  Brief Summary
 
 SQL-based analysis of pizza sales data to extract business insights and improve decision-making.
