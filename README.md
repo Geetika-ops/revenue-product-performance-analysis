@@ -18,28 +18,41 @@ ____
   Tools & Technology
   
 MySQL
+
 SQL
 ____
 
   Methods
   
 Data retrieval using SELECT, WHERE
+
 Aggregation using GROUP BY
+
 Sorting using ORDER BY
+
 Table joins (INNER JOIN)
+
 Window Functions:
+
 RANK()
+
 Running Total
 ____
 
   Key Insights
   
 Identified total number of orders and total revenue
+
 Found highest-priced pizza and most popular size
+
 Top 5 most ordered pizza types identified
+
 Peak order hours analyzed
+
 Category-wise performance evaluated
+
 Revenue contribution percentage calculated
+
 Cumulative revenue trend analyzed
 ____
 
