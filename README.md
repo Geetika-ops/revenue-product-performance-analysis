@@ -19,6 +19,7 @@ ____
   
 - MySQL
 - SQL
+- Microsoft Excel
 ____
 
   Methods
@@ -33,13 +34,13 @@ ____
 ____
 
   Key Insights
-  
+
+- Evening hours show highest order volume
+- Classic category contributes highest revenue (~27%), followed by Supreme
+- Classic category also leads in order quantity (~30%), indicating strong customer preference
+- Thai Chicken Pizza generates highest revenue among all pizzas
+- Chicken-based pizzas dominate top revenue-generating products
 - Identified total number of orders and total revenue
-- Found highest-priced pizza and most popular size
-- Top 5 most ordered pizza types identified
-- Peak order hours analyzed
-- Category-wise performance evaluated
-- Revenue contribution percentage calculated
 - Cumulative revenue trend analyzed
 ____
 
